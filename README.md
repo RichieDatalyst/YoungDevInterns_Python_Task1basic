@@ -3,9 +3,11 @@
 
 You have to download streamlit ---->
 
-pip install streamlit for windows
+pip install streamlit for Windows/mac
 
-pip3 install streamlit for mac
+if pip doesn't work for mac then try pip3
+
+pip3 install streamlit for Linux 
 
 In vs code terminal write above pip statement
  and on replit open shell or console and write
