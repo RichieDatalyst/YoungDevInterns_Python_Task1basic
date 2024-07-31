@@ -5,7 +5,7 @@ import streamlit as st
 st.title("Ameer Abdullah")
 st.caption("Junior Data Scientist")
 st.write("")
-st.write("📧 [abdullahameer255@gmail.com](mailto:abdullahameer255@gmail.com)")
+st.write("📧 [abcxyz@gmail.com](mailto:abcxyz@gmail.com)")
 Social_Media = {
   "LinkedIn" : "https://linkedin.com/in/ameer-abdullah-502955294",
   "Github" : "https://github.com/RichieDatalyst"
